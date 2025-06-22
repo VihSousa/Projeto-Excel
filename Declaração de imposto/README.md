@@ -13,10 +13,10 @@ A planilha foi projetada para funcionar como uma central de informações comple
 ### 📸 Capturas de Tela
 
 **1. Tela de Informes de Rendimentos**
-![Tela de Informes de Rendimentos](Informes.png)
+![Tela de Informes de Rendimentos](./images/Informes.png)
 
 **2. Tela de Dados do Titular**
-![Tela de Dados do Titular](Titular.png)
+![Tela de Dados do Titular](./images/Titular.png)
 
 **3. Tela de Notas Bancárias / Holerites**
-![Tela de Notas Bancárias / Holerites](Notas.png)
+![Tela de Notas Bancárias / Holerites](./images/Notas.png)

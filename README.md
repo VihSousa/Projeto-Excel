@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="Logo_DIO.png" alt="DIO_Excel" width="200"/>
+  <img src="/Logo/Logo_DIO.png alt="DIO_Excel" width="200"/>
 </p>
 
 <p align="center">

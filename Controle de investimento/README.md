@@ -17,4 +17,4 @@ A partir desses dados, a planilha calcula automaticamente:
 
 ### 📸 Capturas de Tela
 
-![image](Puma_Invest.png)
+![image](./Images/Puma_Invest.png)
