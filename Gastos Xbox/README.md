@@ -16,4 +16,4 @@ O dashboard foi projetado para ser uma ferramenta de análise visual, com um flu
 
 **1. Painel de Performance Final**
 
-![Main](./images/Xbox.png)
+![Main](./Images/Xbox.png)
