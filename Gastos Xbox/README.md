@@ -1,19 +1,47 @@
 # 📊 Dashboard de Performance de Vendas | Assinaturas Xbox
 
-Este projeto consiste em um dashboard de vendas interativo, desenvolvido no Excel, com o objetivo de analisar o desempenho de diferentes assinaturas do ecossistema Xbox. A ferramenta transforma uma base de dados bruta em um painel visual claro e intuitivo, permitindo a extração de insights e a tomada de decisões baseada em dados.
+Dashboard interativo em Excel para análise estratégica do ecossistema de assinaturas Xbox, transformando dados brutos em insights visuais para tomada de decisão.
 
-O objetivo principal é fornecer uma visão centralizada do faturamento, com foco na performance de cada tipo de assinatura e no comportamento dos usuários em relação à renovação automática.
+**Objetivo Principal**: Monitorar faturamento com foco em performance por tipo de assinatura e padrões de renovação automática.
 
-### 🚀 Principais Funcionalidades
+## ✨ Destaques
 
-O dashboard foi projetado para ser uma ferramenta de análise visual, com um fluxo claro e funcionalidades específicas para explorar os dados:
+- **Filtros dinâmicos** por periodicidade (Anual/Mensal/Trimestral)
+- **Visualização segmentada** por tipo de assinatura
+- **Análise comparativa** de comportamento de renovação
 
-- **Visão Geral com KPIs:** Apresenta os principais indicadores de faturamento em cartões de destaque (cards), como o total de vendas para o **EA Play Season Pass** e **Minecraft Season Pass**, oferecendo uma visão rápida dos resultados.
-- **Análise de Renovação:** Inclui um gráfico de barras que detalha o faturamento do **Xbox Game Pass**, segmentado pela situação da autorrenovação (Sim/Não), permitindo entender o impacto dessa opção no faturamento.
-- **Painel 100% Interativo:** O dashboard é totalmente dinâmico. Utilizando o filtro lateral de **Tipo de Assinatura** (Anual, Mensal, Trimestral), todos os gráficos e indicadores se atualizam automaticamente, permitindo uma análise segmentada com apenas um clique.
+## 🛠️ Funcionalidades Principales
 
-### 📸 Capturas de Tela
+### 📈 KPIs Estratégicos
+- Cartões de métricas com totais de faturamento
+- Comparativo entre EA Play Season Pass vs Minecraft Season Pass
+
+### 🔄 Análise de Renovação
+- Gráfico de barras comparando faturamento:
+  - Com autorrenovação
+  - Sem autorrenovação
+- Impacto financeiro da opção de renovação automática
+
+### 🎚️ Interatividade
+- Filtro lateral único controla toda a dashboard
+- Atualização em tempo real de todos os componentes
+- Design responsivo para diferentes resoluções
+
+## 🖼️ Visualização
 
 **1. Painel de Performance Final**
 
-![Main](./Images/Xbox.png)
+<div align="center">
+  <img src="./Images/Xbox.png" alt="Painel Completo" width="80%">
+  <p><em>Painel principal com todos os componentes interligados</em></p>
+</div>
+
+## 📥 Como Utilizar
+1. Atualize a base de dados na planilha `DadosBrutos`
+2. Ajuste os filtros no painel lateral
+3. Interaja com os gráficos para detalhamento
+
+## 💡 Melhorias Futuras
+- [ ] Adicionar forecast de receita
+- [ ] Incluir análise de churn
+- [ ] Criar versão mobile simplificada
