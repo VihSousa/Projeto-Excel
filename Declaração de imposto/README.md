@@ -1,22 +1,59 @@
-# 📊 Organizador de Declaração de Imposto de Renda (PUMA PLAN)
+# 📊 Organizador de Declaração IR (PUMA PLAN)
 
-### 📝 Descrição do Projeto
-- Desenvolvido como um desafio de projeto da DIO, esta ferramenta em Excel com uma interface interativa que ajuda a organizar e centralizar os documentos e informações para a Declaração de Imposto de Renda (IRPF). O objetivo é simplificar a coleta de dados e dar ao usuário uma visão clara de sua situação fiscal antes de preencher o programa oficial da Receita Federal.
+Ferramenta em Excel para simplificar a preparação da declaração do Imposto de Renda, centralizando documentos e informações fiscais.
 
-### ⚙️ Funcionalidades Principais:
-A planilha foi projetada para funcionar como uma central de informações completa, com um fluxo de navegação claro e funcionalidades específicas para cada tipo de dado:
+**Objetivo**: Facilitar o pré-preenchimento dos dados antes da declaração oficial na Receita Federal.
 
-- **Controle de Rendimentos Bancários:** A seção "Informes" permite cadastrar os saldos de diferentes contas bancárias, calcula o valor  total automaticamente e possui um campo para referenciar anexos, como os informes em PDF fornecidos pelos bancos.
-- **Central de Dados Pessoais:** Na tela "Titular", o usuário pode preencher e armazenar de forma segura todos os seus dados cadastrais, como nome, CPF, endereço e informações sobre o cônjuge.
-- **Registro de Entradas Mensais:** A seção "Notas" funciona como um extrato, permitindo o registro detalhado de outras fontes de receita, como salários (holerites), com data, categoria e valor.
+## ✨ Destaques
 
-### 📸 Capturas de Tela
+- 🏦 Controle integrado de contas bancárias
+- 👤 Armazenamento seguro de dados pessoais
+- 📅 Registro cronológico de receitas
+- 🧮 Cálculos automáticos de totais
 
-**1. Tela de Informes de Rendimentos**
-![Tela de Informes de Rendimentos](./images/Informes.png)
+## 🛠️ Funcionalidades Principais
 
-**2. Tela de Dados do Titular**
-![Tela de Dados do Titular](./images/Titular.png)
+### 📌 Seção "Informes"
+- Cadastro de saldos por instituição bancária
+- Cálculo automático do total de rendimentos
+- Campo para vinculação de PDFs (informes bancários)
+- Visualização consolidada por mês/ano
 
-**3. Tela de Notas Bancárias / Holerites**
-![Tela de Notas Bancárias / Holerites](./images/Notas.png)
+### 📌 Seção "Titular"
+- Formulário completo de dados cadastrais:
+  - Informações pessoais
+  - Dados de contato
+  - Situação conjugal
+  - Dados do cônjuge (se aplicável)
+
+### 📌 Seção "Notas"
+- Registro detalhado de receitas:
+  - Salários (holerites)
+  - Outras fontes de renda
+- Filtros por período e categoria
+- Visualização em formato de extrato
+
+## 🖼️ Galeria
+
+<div align="center">
+  <img src="./images/Informes.png" alt="Tela de Informes" width="42%">
+  <img src="./images/Titular.png" alt="Tela de Dados Pessoais" width="47%">
+  <br>
+  <img src="./images/Notas.png" alt="Tela de Notas" width="90%">
+</div>
+
+## 📥 Como Utilizar
+1. Preencha a seção "Titular" com seus dados cadastrais
+2. Registre os informes bancários na seção correspondente
+3. Adicione receitas mensais na aba "Notas"
+4. Utilize os totais calculados para sua declaração
+
+## 💡 Roadmap
+- [ ] Integração com XMLs de recibos
+- [ ] Lembretes de vencimentos
+- [ ] Gerador de PDF para documentação
+- [ ] Tutorial interativo incorporado
+
+---
+
+*Desenvolvido como projeto do bootcamp da DIO - 2024*
