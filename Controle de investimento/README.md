@@ -1,20 +1,50 @@
-# 📊 Simulador de Investimentos em Fundos Imobiliários
+# 📊 Simulador de Investimentos em FIIs
 
-### 📝 Descrição do Projeto
-- Este projeto foi desenvolvido como parte do bootcamp da DIO, uma ferramenta em Excel para simular o crescimento de patrimônio e a geração de renda passiva através de investimentos em Fundos Imobiliários (FIIs). A planilha permite ao usuário visualizar o poder dos juros compostos ao longo do tempo.
+Ferramenta em Excel para projeção de investimentos em Fundos Imobiliários, demonstrando o poder dos juros compostos na construção de patrimônio e renda passiva.
 
-### ⚙️ Funcionamento:
-A planilha foi estruturada para ser simples e intuitiva. O usuário precisa preencher os seguintes campos:
-- **Investimento Inicial:** O valor com que se começa a investir.
-- **Aporte Mensal:** O valor que será investido todos os meses.
-- **Taxa de Rendimento Mensal:** A porcentagem de dividendos que o fundo paga ao mês.
-- **Período (em anos):** Por quanto tempo o investimento será mantido.
+**Objetivo**: Visualizar cenários de crescimento financeiro através de simulações personalizáveis.
 
-A partir desses dados, a planilha calcula automaticamente:
-- **Patrimônio Acumulado:** O valor total que você terá ao final do período.
-- **Total Investido:** A soma de todos os seus aportes.
-- **Total em Dividendos:** O quanto você recebeu apenas de rendimentos.
+## ✨ Destaques
 
-### 📸 Capturas de Tela
+- 📈 Projeções de patrimônio acumulado
+- 💰 Cálculo de rendimento passivo (dividendos)
+- 🕰️ Efeito dos juros compostos ao longo do tempo
+- 🎚️ Simulações customizáveis por período
 
-![image](./Images/Puma_Invest.png)
+## 🛠️ Funcionalidades Principais
+
+### 📌 Painel de Entradas
+- **Investimento Inicial**: Valor inicial aplicado
+- **Aporte Mensal**: Contribuição recorrente
+- **Rendimento Mensal**: % média de dividendos
+- **Horizonte Temporal**: Período em anos
+
+### 📌 Painel de Resultados
+- **Patrimônio Total**: Valor acumulado final
+- **Total Investido**: Soma dos aportes
+- **Rendimentos**: Dividendos recebidos
+- **Gráfico Evolutivo**: Progressão visual
+
+## 🖼️ Demonstração
+
+<div align="center">
+  <img src="./Images/Puma_Invest.png" alt="Tela do Simulador" width="80%">
+  <p><em>Interface principal com parâmetros e resultados</em></p>
+</div>
+
+## 📥 Como Utilizar
+1. Preencha os 4 campos básicos no painel amarelo
+2. Visualize automaticamente os resultados:
+   - Totais na seção azul
+   - Projeção gráfica na parte inferior
+3. Ajuste os valores para comparar cenários
+
+## 💡 Melhorias Planejadas
+- [ ] Incluir tabela de evolução ano a ano
+- [ ] Adicionar cálculo de inflação
+- [ ] Criar versão para outras classes de ativos
+- [ ] Exportar relatório em PDF
+
+---
+
+*Desenvolvido como projeto do bootcamp da DIO - Análise de Dados com Excel*
